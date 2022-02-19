@@ -194,7 +194,18 @@ const bigProjects = {
           url: "https://drive.google.com/drive/folders/1V_s9TcnBLb1CGZymCDV1Ems_1t1F4geB?usp=sharing"
         }
       ]
-    }
+    },
+    {
+      //       image: require("./assets/images/nextuLogo.webp"),
+            projectName: "Pixel Art",
+            projectDesc: "Pixel art works I do for fun",
+            footerLink: [
+              {
+                name: "Get Files",
+                url: "https://drive.google.com/drive/folders/12P0aSPDsKrXORsNgC3DDyM84lRSyU9Tz?usp=sharing"
+              }
+            ]
+          }
   ],
   display: true // Set false to hide this section, defaults to true
 };
