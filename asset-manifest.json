@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66262938.chunk.css",
+    "main.js": "/static/js/main.7a9ef2ca.chunk.js",
+    "main.js.map": "/static/js/main.7a9ef2ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.61cf8c7f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.61cf8c7f.js.map",
+    "static/js/2.c1360929.chunk.js": "/static/js/2.c1360929.chunk.js",
+    "static/js/2.c1360929.chunk.js.map": "/static/js/2.c1360929.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
+    "static/js/3.3b663a07.chunk.js": "/static/js/3.3b663a07.chunk.js",
+    "static/js/3.3b663a07.chunk.js.map": "/static/js/3.3b663a07.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.6578f54d.chunk.js": "/static/js/4.6578f54d.chunk.js",
+    "static/js/4.6578f54d.chunk.js.map": "/static/js/4.6578f54d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.010c567ee000d5ac77ba42dda272b23f.js": "/precache-manifest.010c567ee000d5ac77ba42dda272b23f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.66262938.chunk.css.map": "/static/css/main.66262938.chunk.css.map",
+    "static/js/2.c1360929.chunk.js.LICENSE.txt": "/static/js/2.c1360929.chunk.js.LICENSE.txt",
+    "static/media/1200px-University_of_Tehran_logo.svg.png": "/static/media/1200px-University_of_Tehran_logo.svg.010550ef.png",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/cert1.png": "/static/media/cert1.dc843df6.png",
+    "static/media/cert2.png": "/static/media/cert2.f4cb561c.png",
+    "static/media/cert3.png": "/static/media/cert3.4a212571.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61cf8c7f.js",
+    "static/js/2.c1360929.chunk.js",
+    "static/css/main.66262938.chunk.css",
+    "static/js/main.7a9ef2ca.chunk.js"
+  ]
+}
